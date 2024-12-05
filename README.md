@@ -22,3 +22,5 @@ tools = {
     'Specialties': ['Risk Modeling', 'A/B Testing', 'Statistical Analysis']
 }
 
+🤝 Let's Connect!
+Whether you're interested in AI evaluation, LLMs, or building robust data pipelines, I'm always excited to collaborate and share insights!
