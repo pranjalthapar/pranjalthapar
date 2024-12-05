@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranjal Thapar
+# 👋 Hi, I'm Pranjal!
 
 > Crafting the future of AI, one evaluation metric at a time 🚀
 
