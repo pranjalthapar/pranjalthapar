@@ -24,6 +24,7 @@ tools = {
 ```
 ### 📚 Currently Learning
 
+- Fine-tuning LLMs for evaluation purposes
 - Advanced LLM evaluation techniques and benchmarking methodologies
 - Responsible AI practices and ethical considerations in AI development
 - Latest developments in transformer architectures and their applications
