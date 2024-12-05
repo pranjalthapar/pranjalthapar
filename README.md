@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranjal Thapar
 
-<!--
-**pranjalthapar/pranjalthapar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Crafting the future of AI, one evaluation metric at a time 🚀
 
-Here are some ideas to get you started:
+I'm a Lead Data Scientist passionate about building and evaluating AI systems that make a real impact. Currently spearheading ML initiatives and LLM evaluation systems at Work & Co in Brooklyn, NY.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 What I Do
+
+- Design and implement production-grade LLM evaluation systems
+- Architect data validation pipelines and quality assurance frameworks
+- Lead risk analytics strategies for AI products
+- Build bridges between technical excellence and business value
+
+### 🛠️ Tech Stack
+
+```python
+tools = {
+    'Languages': ['Python', 'SQL', 'PySpark'],
+    'ML & AI': ['PyTorch', 'scikit-learn', 'LLMs', 'Neural Networks'],
+    'Data': ['Snowflake', 'Databricks', 'DBT', 'Airflow'],
+    'Visualization': ['Tableau', 'Power BI'],
+    'Specialties': ['Risk Modeling', 'A/B Testing', 'Statistical Analysis']
+}
+
