@@ -22,6 +22,12 @@ tools = {
     'Specialties': ['Risk Modeling', 'A/B Testing', 'Statistical Analysis']
 }
 ```
+### 📚 Currently Learning
+
+- Advanced LLM evaluation techniques and benchmarking methodologies
+- Responsible AI practices and ethical considerations in AI development
+- Latest developments in transformer architectures and their applications
+- MLOps best practices for large-scale AI deployments
 
 ### 🤝 Let's Connect!
 
