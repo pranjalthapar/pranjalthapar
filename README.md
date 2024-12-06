@@ -16,10 +16,10 @@ I'm a Lead Data Scientist passionate about building and evaluating AI systems th
 ```python
 tools = {
     'Languages': ['Python', 'SQL', 'PySpark'],
-    'ML & AI': ['PyTorch', 'scikit-learn', 'LLMs', 'Neural Networks'],
+    'ML & AI': ['PyTorch', 'scikit-learn', 'LLMs', 'Neural Networks', 'Tensorflow'],
     'Data': ['Snowflake', 'Databricks', 'DBT', 'Airflow'],
     'Visualization': ['Tableau', 'Power BI'],
-    'Specialties': ['Risk Modeling', 'A/B Testing', 'Statistical Analysis']
+    'Specialties': ['LLM Evaluations', 'A/B Testing', 'Statistical Analysis']
 }
 ```
 ### 📚 Currently Learning
