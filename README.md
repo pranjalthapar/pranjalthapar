@@ -2,7 +2,7 @@
 
 > Engineering AI systems that think, evaluate, and scale 🧠
 
-I'm an **Engineering Manager** specializing in AI Product Engineering — bridging the gap between rigorous ML evaluation and production-grade backend AI systems. Currently at **Work & Co/ Accenture Song**, previously building LLM evaluation infrastructure at **Pfizer** and **Capital One**.
+I'm an **Engineering Manager** specializing in AI Product Engineering — bridging the gap between rigorous ML evaluation and production-grade backend AI systems. Currently at **Work & Co (Accenture Song)**, previously building LLM evaluation infrastructure at **Pfizer** and **Capital Oneo**.
 
 ---
 
@@ -41,10 +41,10 @@ stack = {
 
 ### 🧪 Recent Work Highlights
 
-🏥 Healthcare AI Evaluation — Designed and scaled LLM-as-Judge frameworks for medical Q&A, including rubric optimization and systematic bias reduction across large physician-authored evaluation sets
-📊 LLM Benchmarking (HealthBench) — Led benchmarking initiatives comparing RAG-augmented systems against frontier models on standardized healthcare datasets
-🔍 RAG System Optimization — Improved retrieval and generation quality in production healthcare AI through evaluation-driven iteration on grounding, citation, and paraphrase pipelines
-🤖 Clinical NLP & Clustering — Applied topic modeling and semantic similarity techniques to large-scale healthcare chat data for insight extraction and classification
+- 🏥 **Healthcare AI Evaluation** — Designed and scaled LLM-as-Judge frameworks for medical Q&A, including rubric optimization and systematic bias reduction across large physician-authored evaluation sets
+- 📊 **LLM Benchmarking (HealthBench)** — Led benchmarking initiatives comparing RAG-augmented systems against frontier models on standardized healthcare datasets
+- 🔍 **RAG System Optimization** — Improved retrieval and generation quality in production healthcare AI through evaluation-driven iteration on grounding, citation, and paraphrase pipelines
+- 🤖 **Clinical NLP & Clustering** — Applied topic modeling and semantic similarity techniques to large-scale healthcare chat data for insight extraction and classification
 
 ---
 
