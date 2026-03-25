@@ -2,7 +2,7 @@
 
 > Engineering AI systems that think, evaluate, and scale 🧠
 
-I'm an **Engineering Manager** specializing in AI Product Engineering — bridging the gap between rigorous ML evaluation and production-grade backend AI systems. Currently at **Accenture**, previously building LLM evaluation infrastructure at **Pfizer** and **Work & Co**.
+I'm an **Engineering Manager** specializing in AI Product Engineering — bridging the gap between rigorous ML evaluation and production-grade backend AI systems. Currently at **Work & Co/ Accenture Song**, previously building LLM evaluation infrastructure at **Pfizer** and **Capital One**.
 
 ---
 
