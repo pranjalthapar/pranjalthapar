@@ -41,10 +41,10 @@ stack = {
 
 ### 🧪 Recent Work Highlights
 
-- 🏥 **HealthBench Evaluation** — Built end-to-end LLM-as-Judge pipelines against OpenAI's HealthBench dataset; fixed a systematic rubric bug reducing false penalty rate from 49 → 3
-- 📊 **RAG Benchmarking** — Showed HAbP (GPT-4o-mini + RAG) matching GPT-4o performance at ~32.85% on HealthBench main dataset
-- 🔍 **Citation Verification Framework** — Evaluated paraphrase mining systems in production healthcare AI
-- 🤖 **Healthcare Chat Clustering** — BERTopic + DBSCAN + Sentence Transformers on clinical chat data
+🏥 Healthcare AI Evaluation — Designed and scaled LLM-as-Judge frameworks for medical Q&A, including rubric optimization and systematic bias reduction across large physician-authored evaluation sets
+📊 LLM Benchmarking (HealthBench) — Led benchmarking initiatives comparing RAG-augmented systems against frontier models on standardized healthcare datasets
+🔍 RAG System Optimization — Improved retrieval and generation quality in production healthcare AI through evaluation-driven iteration on grounding, citation, and paraphrase pipelines
+🤖 Clinical NLP & Clustering — Applied topic modeling and semantic similarity techniques to large-scale healthcare chat data for insight extraction and classification
 
 ---
 
